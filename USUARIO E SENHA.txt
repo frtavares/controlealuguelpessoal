@@ -1,5 +1,9 @@
 
-
-
-usuario: admin@admin.com
+1 - Crie um novo banco de dados no mysql com o nome : rent
+2 - Pegue o arquivo controlealuguel.sql e importe para seu mysql  
+3 - Para entrar no sistema:
+Usuário: admin@admin.com
 senha: 12345678
+
+Caso dê algum erro entre no projeto  pelo vs-code e atualize o composer:  composer update
+
